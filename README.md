@@ -1,4 +1,4 @@
-# YoutubePlaylistParser = first draft
+# YoutubePlaylistParser - first draft
 Extract duration of each video in playlist and title so can compute time required to watch all videos
 
 ## What the project does?
