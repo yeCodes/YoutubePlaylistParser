@@ -24,11 +24,11 @@ The section "Youtube API" is where the script that successfully extracts the pla
 
 ## Contents page
 
-### Using Youtube API in python 
+### 1. Using Youtube API in python 
   - Requesting JSON objects from youtube API
-### Extract relevant info from JSON
+### 2. Extract relevant info from JSON
   - Testing how to extract relevant info from JSON
   - Wanted to get: description, duration and URL data
-### Deconstructing the URL
+### 3. Deconstructing the URL
   -  Trying to extract the video ID part of the URL
-### Now get URLs
+### 4. Now get URLs
